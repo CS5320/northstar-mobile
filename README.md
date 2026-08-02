@@ -23,6 +23,17 @@ Engineering efforts are currently focused on stability, synchronization, and off
 
 See the Architecture repository for additional information.
 
+## Upcoming Work
+
+Current priorities focus on improving the reliability of field operations.
+
+### TODO
+
+- [ ] Improve offline synchronization
+- [ ] Simplify navigation workflows
+- [ ] Reduce battery usage during synchronization
+- [ ] Improve error handling while offline
+
 ---
 
 ## Maintainers
